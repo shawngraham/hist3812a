@@ -56,7 +56,7 @@ Deliverables:
 3. In class presentation of what your group has accomplished.
 
 ### Code of Conduct
-It took the intervention of several rather important people at this University to allow us to use/play Minecraft for this course. We are therefore 'in view' in a way other classes are not. Therefore, decorum, civility, and decency need to be observed at all times in this class. Our in-world spaces are still part of this classroom and I expect the same standard of behaviour.
+It took the intervention of several rather important people at this University to allow us to use/play Minecraft for this course. We are 'in view' in a way other classes are not. Therefore, decorum, civility, and decency need to be observed at all times in this class. Our in-world spaces are still part of this classroom and I expect the same standard of behaviour.
 
 Students should note this [university policy, especially item VII](http://carleton.ca/secretariat/wp-content/uploads/Student-Rights-Responsibilities-Policy.pdf) 
 
