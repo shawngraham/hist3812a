@@ -5,7 +5,7 @@ Fall 2014 Student Projects in #hist3812a at Carleton University
 
 _I intend to do a formal writeup about this project & its results, in tandem with the students, for submission somewhere. In the meantime, please find below the original prompt for this project. -SG_
 
-** Why does this class look the way it does? **
+**Why does this class look the way it does?**
 
 The philosophy of the core learning in this course can be summed up as, ‘Hacking as a Way of Knowing’. That is, we play with digital things and try to understand through that process. Every exercise in this course builds on every other. The course objectives therefore are to:
 
