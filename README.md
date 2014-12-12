@@ -56,18 +56,7 @@ Deliverables:
 3. In class presentation of what your group has accomplished.
 
 ### Code of Conduct
-It took the intervention of several rather important people at this University to allow us to use/play Minecraft for this course. We are therefore 'in view' in a way other classes are not. Therefore, decorum, civility, and decency need to be observed at all times in this class. Our in-world spaces are still part of this classroom and I expect the same standard of behaviour)
+It took the intervention of several rather important people at this University to allow us to use/play Minecraft for this course. We are therefore 'in view' in a way other classes are not. Therefore, decorum, civility, and decency need to be observed at all times in this class. Our in-world spaces are still part of this classroom and I expect the same standard of behaviour.
 
-Students should also note this [university policy, especially item VII](http://carleton.ca/secretariat/wp-content/uploads/Student-Rights-Responsibilities-Policy.pdf) 
+Students should note this [university policy, especially item VII](http://carleton.ca/secretariat/wp-content/uploads/Student-Rights-Responsibilities-Policy.pdf) 
 
-(the code of conduct below is modeled after this one and in some parts, uses the same language; used with permission)
-
-"When playing on the server, you are expected to maintain a certain standard of behaviour.  Excessive examples of the following will earn you a temporary or permanent ban depending on the severity of the offence.
-
-1) Griefing is not allowed.  I define “griefing” as “intentionally ruining someone else’s play experience”, and includes things like spamming lava or water over structures, vandalizing structures to make people angry at you, or wholesale destruction without clear purpose.
-
-2) Theft is not allowed.  That said, this rule is nearly unenforceable, and nearly impossible to prove once occuring.  The only way to reasonably secure your chests is to keep them in a protected cuboid, in a double chest, topped with two hard-to-break blocks, preferably hidden away behind a wall or under a floor.  In general, admins will NOT replace your items if they are stolen, so protect them as best you can."
-
-3) IF YOU GIVE YOUR LOGIN AND PASSWORD to another student not in our class, your group's use of Minecraft will be terminated. An essay will be assigned in its place, to be completed as individuals.
-
-4) Any work completed in Minecraft done by non-members of your group I will consider to be akin to plagiarism. 
