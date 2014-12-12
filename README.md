@@ -61,3 +61,10 @@ It took the intervention of several rather important people at this University t
 Students should note this [university policy, especially item VII](http://carleton.ca/secretariat/wp-content/uploads/Student-Rights-Responsibilities-Policy.pdf) 
 
 **A thank you to Robert Smith, Andrew Yuill, Jaime Garcia Zamorano, Alan Steele, and Steve Skerlak for making this all possible**
+
+### Support
++[Historical Mpas & Topography into Minecraft](http://electricarchaeology.ca/2014/09/30/historical-maps-topography-into-minecraft-qgis/)
+
+_and for more about how this project unfolded, please see [this presentation](http://slides.com/shawngraham/minecraftedhistory#/) and [this one](http://slides.com/shawngraham/minecraftedhistory--2#/)_
+
++oh, and here's the [original introductory slidedeck for the class, back in September](http://slides.com/shawngraham/3812a-fall2014#/)
