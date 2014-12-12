@@ -60,3 +60,4 @@ It took the intervention of several rather important people at this University t
 
 Students should note this [university policy, especially item VII](http://carleton.ca/secretariat/wp-content/uploads/Student-Rights-Responsibilities-Policy.pdf) 
 
+**A thank you to Robert Smith, Andrew Yuill, Jaime Garcia Zamorano, Alan Steele, and Steve Skerlak for making this all possible**
