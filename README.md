@@ -63,8 +63,9 @@ Students should note this [university policy, especially item VII](http://carlet
 **A thank you to Robert Smith, Andrew Yuill, Jaime Garcia Zamorano, Alan Steele, and Steve Skerlak for making this all possible**
 
 ### Support
-+[Historical Mpas & Topography into Minecraft](http://electricarchaeology.ca/2014/09/30/historical-maps-topography-into-minecraft-qgis/)
++ [Historical Maps & Topography into Minecraft](http://electricarchaeology.ca/2014/09/30/historical-maps-topography-into-minecraft-qgis/)
 
 _and for more about how this project unfolded, please see [this presentation](http://slides.com/shawngraham/minecraftedhistory#/) and [this one](http://slides.com/shawngraham/minecraftedhistory--2#/)_
 
-+oh, and here's the [original introductory slidedeck for the class, back in September](http://slides.com/shawngraham/3812a-fall2014#/)
++ oh, and here's the [original introductory slidedeck for the class, back in September](http://slides.com/shawngraham/3812a-fall2014#/)
++ and the [course blog](http://hist3812a.dhcworks.ca/) (which is a bit of a mess, as folks *continually* forgot to hyperlink stuff.)
