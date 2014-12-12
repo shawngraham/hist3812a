@@ -1,6 +1,6 @@
 #The Slave of Portus: Paradata Document (Group B)
 
-_this world looks best when used in conjunction with [Romecraft](http://romecraft.proboards.com/page/Textures)
+_this world looks best when used in conjunction with [Romecraft](http://romecraft.proboards.com/page/Textures)_
 	
 The Slave of Portus is the name of our Minecraft game, an immersive experience set in the Roman port city of Portus at the mouth of the Tiber River on the west coast of Italy. As a central port to the city of Rome during the 1st century CE, Portus saw a great deal of trade traffic which included slaves (http://en.wikipedia.org/wiki/Portus).(1)  Our game is meant to recreate the experience of a slave arriving at Portus where they are bought and then put to work by their new master doing various tasks around the city. In essence, we hope to illustrate the everyday life of a labour slave at this time. 
 
