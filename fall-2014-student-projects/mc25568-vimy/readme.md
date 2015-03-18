@@ -2,4 +2,4 @@
 
 Our paradata document is [presented as a playable Twine](https://dl.dropboxusercontent.com/u/37716296/vimyparadata.html) 
 
-[Presentation document](slides.com/ryanpickering/minecrafted-history/)
+[Presentation document](http://slides.com/ryanpickering/minecrafted-history/)
